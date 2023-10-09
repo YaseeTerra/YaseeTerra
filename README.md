@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @YaseeTerra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in DecSecOps
+- 🌱 I’m currently building data sets on real esate transactions.
+I’m looking to collaborate on python, cybersecurity and building models. 
+- 📫 info@mustawa.online
 
-<!---
-YaseeTerra/YaseeTerra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+YaseeTerra/YaseeTerra is a terra sands repository for small data runs and Jupyter NB developments.
+
